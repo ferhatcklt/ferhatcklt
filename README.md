@@ -57,15 +57,23 @@
 
 <p align="center">
   <table>
-    <tr>
-      <td valign="top">
-        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferhatcklt&theme=radical)
-      </td>
-      <td valign="top">
-        ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferhatcklt&theme=radical)
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatcklt&theme=radical" alt="GitHub Streak Stats">
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ferhatcklt&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ferhat's GitHub Stats">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferhatcklt&layout=compact&theme=radical&langs_count=8" alt="Ferhat's Top Languages">
+    </td>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferhatcklt&theme=radical" alt="Profile Summary">
+    </td>
+  </tr>
+</table>
 </p>
 
 ---
