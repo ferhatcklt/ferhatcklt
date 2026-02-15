@@ -58,7 +58,6 @@
 <p align="center">
   <table>
   <tr>
-    
     <td valign="top">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferhatcklt&layout=compact&theme=radical&langs_count=8" alt="Ferhat's Top Languages">
     </td>
