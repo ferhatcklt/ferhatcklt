@@ -59,10 +59,10 @@
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=ferhatcklt&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ferhat's GitHub Stats">
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferhatcklt&theme=radical)
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatcklt&layout=compact&theme=radical&langs_count=8" alt="Ferhat's Top Languages">
+        ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferhatcklt&theme=radical)
       </td>
     </tr>
   </table>
