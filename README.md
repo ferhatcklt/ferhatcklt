@@ -100,7 +100,7 @@
 <ul>
   <li>📱 <strong>Mobile & Native Applications (Flutter / Swift / Kotlin):</strong>
     <ul>
-      <li><strong>EhliyetCepte (<a href="https://www.ehliyyet.com.tr" target="_blank">ehliyyet.com.tr</a>)</strong> - <em>Cross-platform mobile app built with Flutter and Laravel, scaling to 2,500+ daily active visitors.</em></li>
+      <li><strong>Ehliyet Sınav Soruları (<a href="https://www.ehliyyet.com.tr" target="_blank">ehliyyet.com.tr</a>)</strong> - <em>Cross-platform mobile app built with Flutter and Laravel, scaling to 2,500+ daily active visitors.</em></li>
       <li><strong>LibreCast (Android TV)</strong> - <em>Hybrid app turning Android TVs into Apple AirPlay receivers implementing mDNS and hardware-accelerated H.264 decoding.</em></li>
       <li><strong>Namaz Vakitleri (iOS/Android)</strong> - <em>Global 7-language app featuring precise compass/GPS sensors and WorkManager background tasks (Flutter/Riverpod).</em></li>
       <li><strong>FCMonitor (macOS)</strong> - <em>Native Apple Silicon/Intel menu bar app monitoring real-time CPU, RAM, and Network traffic utilizing POSIX APIs (SwiftUI).</em></li>
